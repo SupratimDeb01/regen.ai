@@ -1,8 +1,0 @@
-runtime: custom
-env: flex
-
-env_variables:
-  PORT=8000
-  MONGO_URI="mongodb+srv://supratimdeb04:FMdCEsBBcAWCzDg3@regen-ai.jy0po07.mongodb.net/?retryWrites=true&w=majority&appName=Regen-Ai"
-  JWT_SECRET="077ba193c9d002ced90220987d21a748459548f09b343f0d055f224a37b4a51e78a1198169307110630daf075bf4178e2fae9e36ebee953c090a6df10461b9e9"
-  GEMINI_API_KEY="AIzaSyC9IL3aksKQ33VeemmcqIkwTTMje0TJGhY"
