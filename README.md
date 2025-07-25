@@ -1,1 +1,1 @@
-# regen-frontend
+regen.ai
