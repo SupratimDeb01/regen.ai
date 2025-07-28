@@ -94,12 +94,12 @@ npm start
 
 ## 📃 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+© 2025 Supratim Deb. All rights reserved.
 
 ## 📬 Contact
 
 **Supratim Deb**
-📧 [Gmail](supratimdeb04@gmail.com)
+📧 [Gmail](mailto:supratimdeb04@gmail.com)
 🌐 [Portfolio](https://supratimdeb.netlify.app)
 🔗 [GitHub](https://github.com/SupratimDeb01) 
 💼 [LinkedIn](https://linkedin.com/in/supratim-deb)
